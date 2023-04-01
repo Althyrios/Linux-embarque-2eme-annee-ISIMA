@@ -8,3 +8,6 @@ Driver_LCD_Glennklockwood.py correspond au driver écrit par le propriétaire de
 Driver_GLCD_S0108.c/.h correspondent au fichier du driver de GLCD de la carte EasyPIC 6
 
 GLCD_RaspberryPi.py correspond au programme écrit pour ce projet.
+
+Linux_Kelian PEREZ.pdf correspond au rapport de ce projet
+
